@@ -113,6 +113,6 @@ Ingrese un número entero para la tabla de multiplicar: 6
 ...  
 6 x 10 = 60
 
-**Posibles Errores:**
+***Posibles Errores:***
 1. Si se ingresa un valor no numérico, puede arrojar una excepción (ValueError).
-2. Si se ingresa un número negativo, la tabla se mostrará con ese
+2. Si se ingresa un número negativo, la tabla se mostrará con ese.

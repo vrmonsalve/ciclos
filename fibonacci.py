@@ -6,7 +6,7 @@ a, b = 0, 1
 print(a, b, end=" ")
 # Calcula los siguientes términos de la secuencia
 for i in range (2, n):
-    # Suma los dos términos anteriores para obtener el siguiente término
+    # Suma los dos términos anteriores para obtener el siguiente término.
     c= a + b
     # Imprime el siguiente término
     print(c, end=" ")
