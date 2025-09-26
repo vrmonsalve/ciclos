@@ -6,6 +6,6 @@ factorial = 1
 for i in range(1, n + 1):
     # Multiplica el factorial por el número actual
     factorial *= i
-# Muestra el resultado final
+# Muestra el resultado final.
 print(f"El factorial de {n} es {factorial}")
-# Fin del programa
+# Fin del Programa.
